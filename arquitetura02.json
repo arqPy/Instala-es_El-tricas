@@ -1,5 +1,4 @@
-[{"Comodo": "Área de Serviço", "Dimensões":{"C":1.5,"L":1.5}},
-    {"Comodo":"Quarto", "Dimensões":{"C":2.5,"L":3.5}},
-    {"Comodo":"Sala", "Dimensões":{"C":3,"L":4.15}},
+[{"Comodo": "Área de Serviço","Dimensões":{"C":1.5,"L":1.5}},
+{"Comodo":"Quarto","Dimensões":{"C":2.5,"L":3.5}},{"Comodo":"Sala", "Dimensões":{"C":3,"L":4.15}},
     {"Comodo":"Cozinha", "Dimensões": {"C": 1.5, "L": 3.5}},
-    {"Comodo":"Banheiro", "Dimensões":{"C":1.5,"L":3.5}}}]
+    {"Comodo":"Banheiro", "Dimensões":{"C":1.5,"L":3.5}}]
