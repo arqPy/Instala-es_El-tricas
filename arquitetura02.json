@@ -1,9 +1,6 @@
-"arquitetura":[
-    0:{
-    "Área de Serviço":{"C":1.5,"L":1.5}
-    "Quarto":{"C":2.5,"L":3.5}
-    "Sala":{"C":3,"L":4.15}
-    "Cozinha": {"C": 1.5, "L": 3.5}
-    "Banheiro":{"C":1.5,"L":3.5}
-    }
+[{"Área de Serviço":{"C":1.5,"L":1.5}},
+    {"Quarto":{"C":2.5,"L":3.5}},
+    {"Sala":{"C":3,"L":4.15}},
+    {"Cozinha": {"C": 1.5, "L": 3.5}},
+    {"Banheiro":{"C":1.5,"L":3.5}}
 ]
