@@ -1,0 +1,7 @@
+{
+    'Área de Serviço':{'C':1.5,'L':1.5,'pIlu':0},
+    'Quarto':{'C':2.5,'L':3.5,'pIlu':0},
+    'Sala':{'C':3,'L':4.15,'pIlu':0},
+    'Cozinha': {'C': 1.5, 'L': 3.5},
+    'Banheiro':{'C':1.5,'L':3.5}
+}
