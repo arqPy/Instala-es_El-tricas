@@ -1,3 +1,3 @@
-[{"Trecho Eletroduto": "T01","Cargas":{"NP":"QD1","NC":"L12"}, "Comprimento": 3},
-{"Trecho Eletroduto": "T02","Cargas":{"NP":"L12","NC":"R15"}, "Comprimento": 2},
-{"Trecho Eletroduto": "T03","Cargas":{"NP":"L12","NC":"L1"}, "Comprimento": 2}]
+[{"Trecho Eletroduto": "T01","Cargas":{"NP":"QD1","NC":"L12", "Comprimento": 3}},
+{"Trecho Eletroduto": "T02","Cargas":{"NP":"L12","NC":"R15", "Comprimento": 2}},
+{"Trecho Eletroduto": "T03","Cargas":{"NP":"L12","NC":"L1", "Comprimento": 2}}]
