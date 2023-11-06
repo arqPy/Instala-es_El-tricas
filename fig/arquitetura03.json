@@ -1,0 +1,8 @@
+[{"Comodo": "Área de Serviço","Dimensões":{"C":1.75,"L":3.4}},
+    {"Comodo":"Dormitório B","Dimensões":{"C":3.15,"L":3.4}},
+    {"Comodo":"Dormitório A","Dimensões":{"C":3.25,"L":3.4}},
+    {"Comodo":"Sala", "Dimensões":{"C":3.25,"L":3.05}},
+    {"Comodo":"Copa", "Dimensões":{"C":3.1,"L":3.05}},
+    {"Comodo":"Cozinha", "Dimensões": {"C": 3.75, "L": 3.05}},
+    {"Comodo":"Hall", "Dimensões":{"C":1.8,"L":1}},
+    {"Comodo":"Banheiro", "Dimensões":{"C":1.8,"L":2.3}}]
